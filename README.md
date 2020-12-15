@@ -21,6 +21,16 @@ C'est un site pour déposer du code
 - stage all: toute les étapes
 - push: on enregistre le fichier
 
+#### CRÉATION D'UN SITE 
+
+[ELOUAN](https://elouan-stage-report.netlify.app) 
+avec l'aide de visual studio code et Netlifly.
+- Page de garde
+- commencer à faire le rapport de stage avec le site
+j'ai "build" le site avec Netlifly et je l'ai enregistré et modifié avec visual studio code
+Enfin j'ai "clone" un dossier avec GitHub
+
+
 
 
 
